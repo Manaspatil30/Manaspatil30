@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*6O38Od7wNo5IatnL.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manas</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 <h3 align="left">Connect with me:</h3>
